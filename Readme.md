@@ -42,6 +42,7 @@ We do this in our dataset with a time_step of 100 ( Meaning it requires the data
 
 
 
+![Screenshot 2022-07-11 165604](https://user-images.githubusercontent.com/87512533/178254202-edf37cee-5720-4524-ad45-defe5e92ef9d.png)
 
 
 
@@ -76,6 +77,12 @@ LSTMs have an edge over conventional feed-forward neural networks and RNN in man
 In our code we made 4 layers which included 3 LSTM layers and a Dense Layer containing of 50 inputs.
 
 After making out layers , we fit our model into our X_train and Y_train with 100 epochs and keeping X_test and Y_test as our validation_data.
+
+
+
+
+![Screenshot 2022-07-11 165705](https://user-images.githubusercontent.com/87512533/178254390-dcc61c14-e436-466b-9573-780a62b6abe1.png)
+
 
 
 
